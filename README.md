@@ -1,4 +1,4 @@
 # tic-tac-toe
-![Screenshot (59)](https://user-images.githubusercontent.com/74052369/127849523-9a0af903-bee0-451d-b147-1d6e5480f21a.png)
-![Screenshot (60)](https://user-images.githubusercontent.com/74052369/127849540-75acb68e-524e-474d-b787-6a2cabb02541.png)
-![Screenshot (61)](https://user-images.githubusercontent.com/74052369/127849549-180aa8e7-0c1b-455b-9df8-8610e0005f21.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/74052369/127850011-c1c14024-a6c6-4400-9c8e-977d280dd6b1.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/74052369/127850024-2acd15bf-01e9-4447-8226-e42c4525acdc.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/74052369/127850030-7652ede7-90f5-4886-962f-79130495dcda.png)
